@@ -1,0 +1,9 @@
+com\mycompany\dao\AlumnoDAO.class
+com\mycompany\controlador\AlumnoControlador.class
+com\mycompany\modelo\Alumno.class
+com\mycompany\modelo\Estudiante.class
+com\mycompany\config\Test.class
+com\mycompany\controlador\EstudianteControlador.class
+com\mycompany\config\Conexion.class
+com\mycompany\dao\EstudianteDAO.class
+com\mycompany\config\Conexion$getClose.class
